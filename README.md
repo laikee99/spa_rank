@@ -1,3 +1,3 @@
-# spa_rank
-# Music TOP Rank Player,data from QQ music.
-# Latest Version Download : https://down.zoneyun.cn/spa_music_app.zip
+# Music online player with global rank.
+# Music TOP Rank Player, data from QQ music.
+# Using amazeui, an single page application.
